@@ -320,7 +320,8 @@ li:nth-child(5) {
 }
 
 .project-box {
-    border: 5px solid transparent;
+    border-width: 5px;
+    border-style: solid;
     border-image: url("prof-images/triangles-2.png") 50; /* Make new image with triangles on each side */
     padding: 20px 80px 50px 20px;
     margin: 40px;
