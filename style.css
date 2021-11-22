@@ -315,7 +315,7 @@ li:nth-child(5) {
 
 .projects-section {
     margin-top: -250px;
-    margin-bottom: 100px;
+    margin-bottom: 260px;
     padding-top: 10px;
 }
 
@@ -336,7 +336,7 @@ li:nth-child(5) {
 }
 
 .proj-sec-title {
-    margin-top: 40px;
+    margin-top: 60px;
     margin-bottom: 40px;
     margin-left: 50px;
     font-size: 35px;
@@ -396,8 +396,8 @@ li:nth-child(5) {
 }
 
 .yah-button {
-    background-color: #02a300 !important;
-    color: #AEFF00 !important;
+    background-color: #68B0FD !important;
+    color: white !important;
     border: none !important;
     font-family: 'PT Sans', sans-serif !important;
     margin: 5px;
