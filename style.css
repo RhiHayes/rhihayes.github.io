@@ -241,7 +241,7 @@ a {
 }
 
 .space-2 {
-    margin-top: 10px;
+    margin-top: -250px;
     margin-bottom: 150px;
     padding: 100px;
 }
@@ -715,7 +715,7 @@ li:nth-child(5) {
     }
 
     .space-2 {
-        margin-top: -80px;
+        margin-top: -250px;
         margin-bottom: 250px;
     }
 
@@ -814,6 +814,11 @@ li:nth-child(5) {
 
     .exp-container-img {
         background-image: none;
+    }
+
+    .space-2 {
+        margin-top: -250px;
+        margin-bottom: 150px;
     }
 
 }
