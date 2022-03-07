@@ -72,6 +72,10 @@ body {
     height: 600px;
 }
 
+.mail {
+    text-decoration: none !important;
+}
+
 .my-name {
     text-align: center;
     font-family: 'PT Serif', serif;
