@@ -274,7 +274,7 @@ a {
     background-image: url("prof-images/triangles.png");
     background-size: contain;
     background-position: right center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 
 }
 
